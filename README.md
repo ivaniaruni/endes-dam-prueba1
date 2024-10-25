@@ -1,2 +1,2 @@
 # endes-dam-prueba1
-Pequeña repo para jugar con git.
+Pequeña repo para trabajar con git.
